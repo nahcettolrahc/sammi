@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 15, 2022 at 10:12 AM
+-- Generation Time: Nov 22, 2022 at 10:37 AM
 -- Server version: 10.4.25-MariaDB
 -- PHP Version: 8.1.10
 
@@ -342,8 +342,8 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `fullname`, `email`, `phone`, `address`, `password`, `status`, `created_at`, `updated_at`) VALUES
 (4, 'Toàn', 'nhom51@gmail.com', '0395679339', 'Nam Định', 'e10adc3949ba59abbe56e057f20f883e', 1, '2021-04-23 08:01:19', NULL),
 (5, 'Nhóm 5', 'sdjfkhdsljfhkj@gmail.com', '0846842286', 'Nam Định', 'e10adc3949ba59abbe56e057f20f883e', 1, '2021-05-06 07:10:49', NULL),
-(6, 'Hoàng Mạnh Tú', 'fdgkjdfoig@gmail.com', '0963873812', 'Triều Khúc-Thanh Trì -Hà Nội', 'e10adc3949ba59abbe56e057f20f883e', 0, '2021-05-06 10:42:15', NULL),
-(7, 'Nguyễn Thị Biên', 'iudgisdugioj@gmail.com', '0846842287', 'Khối 2, Thị trấn Mường Xén, Huyện Kỳ Sơn', 'e10adc3949ba59abbe56e057f20f883e', 0, '2021-05-06 13:16:50', NULL),
+(6, 'tran hai nam', 'fdgkjdfoig@gmail.com', '0963873812', 'nam thang long ha noi', 'e10adc3949ba59abbe56e057f20f883e', 0, '2021-05-06 10:42:15', NULL),
+(7, 'nghiem thi minh hienn', 'iudgisdugioj@gmail.com', '0846842287', 'dai mo ha noi', 'e10adc3949ba59abbe56e057f20f883e', 0, '2021-05-06 13:16:50', NULL),
 (8, 'Nhóm 5', 'dsgjsdijvk@gmail.com', '0846842288', 'Nhà 88, Ấp Hiệp Sậy Niếu B, Xã Phụng Hiệp, Huyện Phụng Hiệp', 'e10adc3949ba59abbe56e057f20f883e', 0, '2021-06-24 10:30:25', NULL),
 (10, 'letoan', 'letoan@gmail.com', '0971071698', 'Mỹ Đình , Nam Từ Liêm , Hà Nội', '827ccb0eea8a706c4c34a16891f84e7b', 0, '2022-11-07 13:50:23', NULL);
 
