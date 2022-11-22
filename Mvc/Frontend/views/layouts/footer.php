@@ -28,7 +28,7 @@
         </div>
         <h4 class="title-footer">SHIP & ORDER</h4>
         <div class="content">
-          <p>0945 677 911 - 09 6162 1288
+          <p>0971071698 - 09712345678
           </p>
         </div>
       </div>
@@ -38,7 +38,7 @@
           <span>Liên hệ </span>
         </div>
         <div class="call">
-          <p>0866 173200</p>
+          <p>0971071698</p>
         </div>
       </div>
     </div>

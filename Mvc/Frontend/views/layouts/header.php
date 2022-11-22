@@ -25,7 +25,7 @@
                         </div>
                         <div class="header-content">
                             <div class="hottline">
-                                <span style="color: #DC1C4C">Liên hệ -</span> <a href="tel:0846842286">0846842286</a>
+                                <span style="color: #DC1C4C">Liên hệ -</span> <a href="tel:0846842286">0971071698</a>
                                 <div class="headercenter">
                                     <div class="titleheader">Chào mừng bạn đến với SAMMISHOP!</div>
                                 </div>
